@@ -1,0 +1,2 @@
+setopt HIST_SAVE_NO_DUPS
+unsetopt HIST_SAVE_NO_DUPS
