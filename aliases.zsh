@@ -20,5 +20,4 @@ alias ...="cd ../.."
 
 #python env
 alias navienv="source ~/Dev/navienv/bin/activate"
-alias navienv2="source ~/Dev/navienv2/bin/activate"
-alias python2env="source ~/Dev/python2env/bin/activate"
+alias navi="cd navi && workon navienv2"

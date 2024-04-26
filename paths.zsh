@@ -12,3 +12,9 @@ fi
 if [ -d "$XDG_CONFIG_HOME/cargo/bin" ]; then
   export PATH="$XDG_CONFIG_HOME/cargo/bin:$PATH"
 fi
+
+# USER YARN BINARIES
+if [ -d /home/avatsavirs/.yarn/bin ]; then
+  export PATH="/home/avatsavirs/.yarn/bin/:$PATH"
+fi
+

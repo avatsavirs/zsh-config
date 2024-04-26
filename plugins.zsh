@@ -7,3 +7,4 @@ source $PLUGIN_BASE_PATH/zoxide.zsh
 source $PLUGIN_BASE_PATH/volta.zsh
 source $PLUGIN_BASE_PATH/autocomplete.zsh
 source $PLUGIN_BASE_PATH/zsh-autosuggestions/index.zsh
+source $PLUGIN_BASE_PATH/python-virtualenv-wrapper.zsh
